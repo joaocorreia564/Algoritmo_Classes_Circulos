@@ -1,1 +1,2 @@
 # Algoritmo_Classes_Circulos
+Este código é uma implementação de uma classe em C++ que representa um círculo. A classe possui métodos privados para calcular a área do círculo, a distância entre os centros de dois círculos e a circunferência do círculo. Além disso, possui métodos públicos para definir o raio do círculo, aumentá-lo em um percentual, definir o centro do círculo, imprimir o valor do raio, o centro do círculo e a área do círculo. O programa principal cria dois objetos da classe Circle e testa as suas funcionalidades.
